@@ -8,7 +8,7 @@ money = float(input('Quanto dinheiro vc tem na carteira? '))
 #1 dolar == 3.91 reais
 
 conversao_dolar = money / 3.91 #convertendo para dolar
-conversao_euro = money / 4.45 #convetrendo para euro
+conversao_euro = money / 4.45  #convetrendo para euro
 conversao_iene = money / 0.035 #convertendo para iene
 
 
