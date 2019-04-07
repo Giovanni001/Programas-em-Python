@@ -51,7 +51,7 @@ if n1 == n2 and  n2 == n3:
     print('Os numeros sao iguais')
 
 print('Menor numero: ' ,menor)
-print('Maior numero : ',maior)
+print('Maior numero : ' ,maior)
 
 
 
