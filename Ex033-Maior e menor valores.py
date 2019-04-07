@@ -50,7 +50,7 @@ if n3> n1 and n3 > n2:
 if n1 == n2 and  n2 == n3:
     print('Os numeros sao iguais')
 
-print('Menor numero: ' ,menor)
+print('Menor numero: ',menor)
 print('Maior numero : ' ,maior)
 
 
