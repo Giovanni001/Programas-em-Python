@@ -8,5 +8,6 @@ resp = str(input('Digite o seu sexo [M/F]: ')).strip()[0]
 
 while resp not in 'MmFf':
     resp = str(input('Dados Invalidos. Digite novamente! '))
+
 print('Cadastrado com Sucesso !')
 
