@@ -7,7 +7,6 @@ e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre 
 alguma_coisa = input('Digite algo: ')
 
 print('O tipo primitivo  é: {} '.format(type(alguma_coisa)))
-
 print('Só tem espaço? {}'.format(alguma_coisa.isspace()))
 print(' É um número? {}'.format(alguma_coisa.isnumeric()))
 print('É alfabético? {}'.format(alguma_coisa.isalpha()))
